@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  #### Programming
+
+# image: images/skill/skill_image.jpg
+
+skill:
+  - title: C#
+    percent: 100
+  - title: Python
+    percent: 85
+  - title: TypeScript
+    percent: 80
+  - title: JavaScript
+    percent: 80
+  - title: Java
+    percent: 80

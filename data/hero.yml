@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hello, I am Junhao
+content: >
+  # A software developer
+
+  Enjoy create MR/VR application and web service
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/HsinchuPark.jpg
+videoThumb: images/hero/HoloLens demo.avif
+videoURL: https://www.youtube.com/watch?v=CAUo8nlbh-Y

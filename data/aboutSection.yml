@@ -1,0 +1,20 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  Enjoy eating and keep looking good food in Hsinchu / Taipei
+content: >
+  ### I create game and play.
+
+  I am an individual who possesses a strong desire to acquire new knowledge and has a quick learning pace. 
+  Efficiency is a key aspect of my work style, and I always strive to complete tasks in a timely and productive manner. 
+  I place a significant emphasis on the user experience and understand its intrinsic value. 
+  I believe that meeting user needs and delivering exceptional experiences are crucial for the success of any product. 
+  Taking responsibility for my work is a top priority, and I am dedicated to ensuring the highest quality standards.
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: resume_e_20220110.pdf
+image: images/about/about.jpg

@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Services
+
+  I do take on freelance projects in my spare time. Here are the services I provide.
+service:
+  - content: >
+      #### XR Development 
+
+      HoloLens application and mobile AR and user Experience for XR.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web Development 
+
+      Cloud native web service which build with MERN and Kubernetes.
+    image: images/service/web.svg
+  - content: >
+      #### Game Development
+
+      Developed 2D and 3D game using Unity & Uneral Game Engine.
+    image: images/service/creative.svg

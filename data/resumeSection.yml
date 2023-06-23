@@ -1,0 +1,60 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Experience
+
+  During my university years, I had the opportunity to explore programming and the XR (Extended Reality) field, and ever since then, I have been actively involved in the software development industry
+
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Master in Industrial Engineering and Engineering Management
+
+      * International Games System Game Competition
+
+      * From IP To IPO program (FITI)
+
+      * Tool Path Planning in Five-Axis Flank Milling for Tooth Surfaces of Spiral Bevel Gears
+    time: 2017-2019 | National Tsing Hua University
+  - content: >
+      #### Bachelor in Industrial Engineering and Engineering Management
+
+      * School Volleyball team
+      
+    time: 2012-2016 | National Tsing Hua University
+
+experience:
+  - content: >
+      #### Taiwan Semiconductor Manufacturing Co., Ltd.
+
+      ##### DevOps Engineer
+
+      * Cloud Native Web application
+
+    time: 2022 Apr - Present
+  - content: >
+      #### ADAT Technology Co., Ltd.
+
+      ##### Software Engineer
+
+      * Smart Inspection System
+
+      * Flat Object Navigation System
+
+      * HoloLens Application
+
+      * High-Fidelity Synthetic Image Generator
+
+      * DevOps with Unity
+
+      * Integrate Third-party Sound Arrays
+
+      * Video Call Real-time Masking System
+
+      * 2D Image Positioning System
+    time: 2019 Nov - 2022 Apr
