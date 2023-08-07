@@ -6,7 +6,51 @@
     <description>Recent content in website on Junhao Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="http://example.org/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2023 14:00:27 +0800</lastBuildDate><atom:link href="http://example.org/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023換發護照</title>
+      <link>http://example.org/blog/passport-change-2023/</link>
+      <pubDate>Mon, 07 Aug 2023 14:00:27 +0800</pubDate>
+      
+      <guid>http://example.org/blog/passport-change-2023/</guid>
+      <description>本文章僅針對個人換發護照，申請新護照不在此文範圍
+在疫情的肆虐下，已經四年沒出國的我終於要出國啦～～
+這次計畫要跟歐老闆一起去日本東京玩耍，行程開始的第一步驟就是換發已經過期的護照
+疫情逐漸趨於穩定的同時換發護照的需求也大大提升
+有計畫出國的朋友記得要提早進行護照的辦理
+不然就要多花點錢請旅行社代辦或是辦裡急件了喔
+只需要5分鐘就可以辦好了！！！
+推薦大家一定要用網路預約辦理
+2023換發護照步驟: 1. 上網預約 上政府的預約網站，填寫資料blablabla
+最重要的步驟是一定要上傳你護照要用的照片
+護照照片規格
+按照官方說法會大大加速辦理的速度
+預約成功後會收到一封信
+2. 列印簡式護照資料表 信件內有說明要先把文件印好帶去現場辦理
+如果是從台北車站走到標準檢驗局的話
+可以從Ｍ8出口出來後的7-11列印就好很方便
+3. 帶著身分證+護照資料表前往現場辦理 注意不是去外交部領事事務局，而是他旁邊的經濟部標準檢驗局 走進來後會有工作人員以及路牌會引導你前往二樓大禮堂的樓梯
+上樓後看到這個大門進門右轉就到了處理的大禮堂
+進去大廳後先去左手邊的網路預約報到處報到
+接下來就等待叫號了，當天是平日早上9:30人潮不多不少
+工作人員處理的速度滿快的等了大概2分鐘就等到了
+繳交文件資料給工作人員後接下來就是繳錢了
+換發護照是1300，可以刷卡滿方便的
+4. 辦理護照郵寄服務 外交部領事事務局那邊有郵局可以寄護照到你指定的地址 千萬要記得去辦理！！！
+好像是看距離算運費但都不貴
+實在是有夠方便
+不然就會像我一樣還要再來一次&amp;hellip;
+如果是親自領取的話
+這次就要去外交部領事事務處了
+首先要準備好繳費的收據
+跟一樓大廳門口的工作人員領取號碼牌
+之後坐手扶梯上二樓
+等待叫號（這次平日下午3:30人超多）
+領取的時候只要拿本人的身分證＋收據就可以了（幫別人代領也是只要本人的身分證＋收據）
+這次大概等了20分鐘好後悔沒有辦理郵寄服務
+以上就是2023年換發護照的全過程啦，希望這篇文章有幫助到大家</description>
+    </item>
+    
     <item>
       <title>Markdown Formatting Demo</title>
       <link>http://example.org/blog/markdown-formatting-demo/</link>
@@ -23,24 +67,6 @@ Emphasis This is bold text
 This is bold text
 This is italic text
 This is italic text</description>
-    </item>
-    
-    <item>
-      <title>Benjamin Franklins thoughts about new designers</title>
-      <link>http://example.org/blog/benjamin-franklins-thoughts-about-new-designers/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://example.org/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>New designers limitations</title>
-      <link>http://example.org/blog/new-designers-limitations/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://example.org/blog/new-designers-limitations/</guid>
-      <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
   </channel>
